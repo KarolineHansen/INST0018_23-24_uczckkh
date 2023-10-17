@@ -13,7 +13,7 @@ h1 {
 	margin-right: 100px;
 	margin-left: 100px;
 }
-p {
+p, li {
 	font-family: Arial;
 	color: #732525;
 	font-size: 12px;
@@ -22,7 +22,7 @@ p {
 	margin-right: 100px;
 	margin-left: 100px;
 }
-li {
+a {
 	font-family: Arial;
 	color: #A95353;
 	font-size: 12px;
