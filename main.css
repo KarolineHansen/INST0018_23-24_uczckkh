@@ -1,22 +1,27 @@
 body {
 	background-color: #FFE8ED;
-  background-image: url("lavenderbg.gif")
+	background-image: url("lavenderbg.gif")
 }
 h1 {
-  font-family: Arial;
-  color: #732525
-  font-size: 20px
-  margin-top: 100px;
-  margin-bottom: 100px;
-  margin-right: 100px;
-  margin-left: 100px;
+	font-family: Arial;
+	color: #732525;
+	font-size: 20px
+	margin-top: 100px;
+	margin-bottom: 100px;
+	margin-right: 100px;
+	margin-left: 100px;
 }
 p {
 	font-family: Arial;
 	color: #732525;
-  font-size: 12px
+	font-size: 12px;
 	margin-top: 100px;
-  margin-bottom: 100px;
-  margin-right: 100px;
-  margin-left: 100px;
+	margin-bottom: 100px;
+	margin-right: 100px;
+	margin-left: 100px;
+}
+li {
+	font-family: Arial;
+	color: #A95353;
+	font-size: 12px;
 }
