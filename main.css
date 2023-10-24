@@ -24,3 +24,8 @@ a {
 	color: #8d2d2d;
 	font-size: 18px;
 }
+
+img {
+	max-width: 80%
+	height: auto
+}
